@@ -43,5 +43,5 @@ Exploratory analysis of 97,149 Spotify tracks. Found that no single audio featur
 
 ## :mailbox_with_mail: Connect with Me
 
-- :e_mail: Email: rinaldiwalteva404@gmail.com
+- 📧: Email: rinaldiwalteva404@gmail.com
 - :briefcase: LinkedIn: ([https://www.linkedin.com/in/rinaldi-148181216/](https://www.linkedin.com/in/rinaldi-148181216/))
