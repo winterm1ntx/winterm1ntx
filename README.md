@@ -15,7 +15,7 @@ I'm **Rinaldi**, a Data Analyst passionate about turning raw data into actionabl
 
 ---
 
-## :Tools: Tech Stack
+## 🧰: Tech Stack
 
 **Languages & Querying**
 SQL (CTE, Window Functions, Subqueries) · Python (pandas, matplotlib, seaborn, scipy)
