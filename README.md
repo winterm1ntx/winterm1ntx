@@ -15,7 +15,7 @@ I'm **Rinaldi**, a Data Analyst passionate about turning raw data into actionabl
 
 ---
 
-## 🧰: Tech Stack
+## 🧰 Tech Stack
 
 **Languages & Querying**
 SQL (CTE, Window Functions, Subqueries) · Python (pandas, matplotlib, seaborn, scipy)
@@ -43,5 +43,5 @@ Exploratory analysis of 97,149 Spotify tracks. Found that no single audio featur
 
 ## :mailbox_with_mail: Connect with Me
 
-- 📧: Email: rinaldiwalteva404@gmail.com
+- 📧 Email: rinaldiwalteva404@gmail.com
 - :briefcase: LinkedIn: ([https://www.linkedin.com/in/rinaldi-148181216/](https://www.linkedin.com/in/rinaldi-148181216/))
